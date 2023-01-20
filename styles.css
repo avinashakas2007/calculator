@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    margin: 50px;
+}
+ .row{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+button{
+    padding: 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+    transition-delay: 200ms;
+    color: white;
+}
+.lastr{
+    margin: 6px;
+} 
+
+.first button{
+    padding: 17px;
+}
+
+.ins{
+    padding: 10px;
+    margin: 10px;
+    width: 211px;
+}
